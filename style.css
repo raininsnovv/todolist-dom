@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
+   
+}
+
+.container {
+    width: 600px;
+    
+    background-color: #fff;
+    text-align: center;
+    margin: 0  auto;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px  #000;
+}
+
+.header {
+    
+    background-color: #fff;
+    
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.header-logo{
+    width: 100%;
+    
+}
+
+.todo-logo{
+    width: 250px;
+}
+
+.input {
+    width: 70%;
+    height: 40px;
+    border-radius: 20px;
+    
+}
+.btn_save{
+    background-color: #fff;
+    height: 40px;
+    border-radius: 20px;
+    border: 2px solid #200d0d;
+}
+.input-group {
+    margin-bottom: 30px;
+
+}
+
+.task{
+    width: 90%;
+    display: flex;
+    padding: 15px 20px 15px 20px;
+    border-radius: 10px;
+    background: linear-gradient(135deg, #e55d87 0%, #5fc3e4 100%);
+    
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+    justify-content: space-between;
+}
